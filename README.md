@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-     <a href="PROJECT__URL">📱 Visualize o projeto</a>
+     <a href="https://bnunes216.github.io/">📱 Visualize o projeto</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/e4922c03-aba0-42b5-b2b6-76a7d2ec6d39" alt="Image" width="400px">
-    <img src="https://github.com/user-attachments/assets/78cb7041-c826-45b7-ad6c-9b73b01f59fb" alt="Image" width="400px">
+    <img src="https://github.com/user-attachments/assets/6581574c-6c80-4b0c-b6cc-2acbe16f75bf" alt="Image" width="400px">
+    <img src="https://github.com/user-attachments/assets/2a3ff222-9e45-4e6d-8be4-f6d4771f1c91" alt="Image" width="400px">
 </p>
 
 <h2 id="projeto">💻 Projeto</h2>
@@ -42,7 +42,7 @@ Este projeto explora o universo de Star Wars, oferecendo um catálogo detalhado 
 
 - Como clonar seu projeto
 ```bash
-git clone https://github.com/Bnunes216/Blog-Star-Wars.git
+git clone https://github.com/Bnunes216/Blog-Star_Wars.git
 ```
 
 <h3>Iniciando</h3>
@@ -76,4 +76,4 @@ Um agradecimento especial a todas as pessoas que contribuíram para este projeto
 
 Esse projeto esta sobre direitos do MIT.
 
-Para mais conhecimentos sobre <a href="https://github.com/Bnunes216/Blog-Star-Wars/blob/main/LICENCE">clique aqui</a>
+Para mais conhecimentos sobre <a href="https://github.com/Bnunes216/Blog-Star_Wars/blob/main/LICENCE">clique aqui</a>
