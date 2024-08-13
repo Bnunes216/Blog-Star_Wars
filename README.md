@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-     <a href="https://bnunes216.github.io/">📱 Visualize o projeto</a>
+     <a href="https://bnunes216.github.io/Blog-Star_Wars/">📱 Visualize o projeto</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
